@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppC", "AppC\AppC.csproj", "{8E14AD8D-ADE9-4C9A-89E3-47BD10A177B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppC", "AppC\AppC.csproj", "{8E14AD8D-ADE9-4C9A-89E3-47BD10A177B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometrus.Lazutkin", "MyLib\Geometrus.Lazutkin.csproj", "{2FADD2D8-43AA-4047-958B-88E7AC414ED3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8E14AD8D-ADE9-4C9A-89E3-47BD10A177B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E14AD8D-ADE9-4C9A-89E3-47BD10A177B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E14AD8D-ADE9-4C9A-89E3-47BD10A177B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FADD2D8-43AA-4047-958B-88E7AC414ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FADD2D8-43AA-4047-958B-88E7AC414ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FADD2D8-43AA-4047-958B-88E7AC414ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FADD2D8-43AA-4047-958B-88E7AC414ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
